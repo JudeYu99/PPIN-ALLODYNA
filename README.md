@@ -20,10 +20,10 @@ The tool is currently being further developed and refined, and a new version wil
 
 - Example PPIN input file can be referred to ***test_PPIN.txt***.
 - Example output of Hitting Time and Commute Time:
-  ![Hit](https://github.com/JudeYu99/PPIN-ALLODYNA/tree/main/OUTPUTS/hit.png "Hitting Time")
-  ![Commute](https://github.com/JudeYu99/PPIN-ALLODYNA/tree/main/OUTPUTS/commute.png "Commute Time")
+  ![Hit](https://github.com/JudeYu99/PPIN-ALLODYNA/main/OUTPUTS/hit.png "Hitting Time")  
+  ![Commute](https://github.com/JudeYu99/PPIN-ALLODYNA/main/OUTPUTS/commute.png "Commute Time")
 - Example output of PRS:
-  ![PRS](https://github.com/JudeYu99/PPIN-ALLODYNA/tree/main/OUTPUTS/prs_heatmap.png "PRS")
+  ![PRS](https://github.com/JudeYu99/PPIN-ALLODYNA/main/OUTPUTS/prs_heatmap.png "PRS")
 
 
   
