@@ -11,19 +11,31 @@ The tool is currently being further developed and refined, and a new version wil
   1) Python packages in need: os, re, string, sys, time, numpy, scipy, pandas, prody, wget, selenium, networkx
   2) External software to install: [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/home)
   3) Python language version: >=3.7
-  4) Before running ***Run.py***, please modify line 41 for PPIN input, line 116 and line 117 for two interacting protein UniProt IDs.
+  4) Before running ***Run.py***, please modify line 41 for PPIN input, line 116 and line 117 for two interacting proteins' UniProt IDs.
   ```
   python Run.py
   ```
 
 ## 3. Examples
 
-- Example PPIN input file can be referred to ***test_PPIN.txt***.
+- Example PPIN input file can be referred to [***test_PPIN.txt***](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/test_PPIN.txt).
 - Example output of Hitting Time and Commute Time:  
   ![Hit](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/hit.png "Hitting Time")  
   ![Commute](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/commute.png "Commute Time")
 - Example output of PRS:  
   ![PRS](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/prs_heatmap.png "PRS")
-
+- Example output of co-evolution score ([TP53](https://www.uniprot.org/uniprot/P04637) and [CDK2](https://www.uniprot.org/uniprot/P24941)):  
+  ```
+  The coevolution score for P04637 and P24941 is: 0.06319592447541351
+  ```
+  The intermediate files obtained during the calculation are detailed in [**OUTPUTS**](https://github.com/JudeYu99/PPIN-ALLODYNA/tree/main/OUTPUTS) folder.
 
   
+## 4. Reference
+- Stephen F. Altschul, Thomas L. Madden, Alejandro A.Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs", Nucleic Acids Res. 25:3389-3402.
+- Liu, Y., & Bahar, I. (2012). Sequence evolution correlates with structural dynamics. Molecular biology and evolution, 29(9), 2253–2263.
+- Liu, Y., Gierasch, L. M., & Bahar, I. (2010). Role of Hsp70 ATPase domain intrinsic dynamics and sequence evolution in enabling its functional interactions with NEFs. PLoS computational biology, 6(9), e1000931.
+- Madeira F, Park YM, Lee J, et al. The EMBL-EBI search and sequence analysis tools APIs in 2019. Nucleic Acids Research. 2019 Jul;47(W1):W636-W641. 
+- UniProt BLAST (https://www.uniprot.org/blast/)
+- Clustal Omega Web Server (https://www.ebi.ac.uk/Tools/msa/clustalo/)
+
