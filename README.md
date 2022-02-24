@@ -22,7 +22,7 @@ The tool is currently being further developed and refined, and a new version wil
 
 - Example output of Hitting Time and Commute Time:  
   <div align=center>
-  <img src="https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/hit.png" width="400" height="400"><img src="https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/commute.png" width="400" height="400">
+  <img src="https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/hit.png" width="380" height="380"><img src="https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/commute.png" width="380" height="380">
   </div>
   
 - Example output of PRS:  
