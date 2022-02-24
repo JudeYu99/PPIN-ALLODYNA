@@ -6,3 +6,11 @@ At the structural level, the computation of biological networks, including prote
 PPIN-ALLODYNA (**P**rotein-**P**rotein **I**nteraction **N**etwork-**ALLO**steric **DYNA**mics) is an integrated tool for exploring methods of introducing allosteric effects based on protein structure level into the analysis of protein-protein interaction networks to construct a PPIN-based functional atlas. This tool is expected for mapping biophysical ideas and methods into the study of protein-protein interaction networks, enabling quantitative and dynamic portrayal of signaling pathways, as well as anticipating new interpretations of molecular mechanisms of disease.
   
 The tool is currently being further developed and refined, and a new version will be available soon in the future.
+
+## 2. Usage
+  1) Python packages in need: os, re, string, sys, time, numpy, scipy, pandas, prody, wget, selenium, networkx
+  2) External software to install: [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/home)
+  3) Python language version: >=3.7
+
+
+  
