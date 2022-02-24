@@ -24,6 +24,10 @@ The tool is currently being further developed and refined, and a new version wil
   ![Commute](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/commute.png "Commute Time")
 - Example output of PRS:  
   ![PRS](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/prs_heatmap.png "PRS")
+  <div align=center>
+  <img src="https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/prs_heatmap.png" width="180" height="105"/>
+  </div>
+
 - Example output of co-evolution score ([TP53](https://www.uniprot.org/uniprot/P04637) and [CDK2](https://www.uniprot.org/uniprot/P24941)):  
   ```
   The coevolution score for P04637 and P24941 is: 0.06319592447541351
