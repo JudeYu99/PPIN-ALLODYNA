@@ -1,1 +1,5 @@
 # PPIN-ALLODYNA
+
+PPIN-ALLODYNA (**P**rotein-**P**rotein **I**nteraction **N**etwork-**ALLO**steric **DYNA**mics)  
+At the structural level, the computation of biological networks, including protein structural networks and elastic network models developed in our preliminary research, has been widely applied to allosteric signaling within proteins, providing effective tools for structural biologists. In particular, the elastic network model can not only study the local energy and conformational changes of protein structures at the molecular level, but also realize the quantitative description of protein dynamics at the histological level, providing a theoretical approach for high-throughput aliasing studies. Therefore, extending the method based on the elastic network model calculation to the protein-protein interaction network level can realize the global dynamics of the network or module with the functional coupling of the signaling pathways inherent to the network topology, and theoretically realize the allosteric effect at the network level.
+
