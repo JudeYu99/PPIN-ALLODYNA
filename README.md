@@ -21,11 +21,11 @@ The tool is currently being further developed and refined, and a new version wil
 - Example PPIN input file can be referred to [***test_PPIN.txt***](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/test_PPIN.txt).
 - Example output of Hitting Time and Commute Time:  
   ![Hit](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/hit.png "Hitting Time")  
-  ![Commute](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/commute.png "Commute Time")
+  ![Commute](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/commute.png "Commute Time")  
+  <img src="https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/hit.png" width="300" height="300"><img src="https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/commute.png" width="300" height="300">
 - Example output of PRS:  
-  ![PRS](https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/prs_heatmap.png "PRS")
   <div align=center>
-  <img src="https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/prs_heatmap.png" width="180" height="105"/>
+  <img src="https://github.com/JudeYu99/PPIN-ALLODYNA/blob/main/OUTPUTS/prs_heatmap.png" width="400" height="400"/>
   </div>
 
 - Example output of co-evolution score ([TP53](https://www.uniprot.org/uniprot/P04637) and [CDK2](https://www.uniprot.org/uniprot/P24941)):  
