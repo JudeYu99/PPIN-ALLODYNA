@@ -35,6 +35,8 @@ The tool is currently being further developed and refined, and a new version wil
   The coevolution score for P04637 and P24941 is: 0.06319592447541351
   ```
   The intermediate files obtained during the calculation are detailed in [**OUTPUTS**](https://github.com/JudeYu99/PPIN-ALLODYNA/tree/main/OUTPUTS) folder.
+  
+  For questions and data requirements, please contact ***yzhu99@stu.suda.edu.cn***.
 
   
 ## 4. Reference
