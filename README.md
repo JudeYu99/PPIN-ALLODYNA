@@ -11,6 +11,19 @@ The tool is currently being further developed and refined, and a new version wil
   1) Python packages in need: os, re, string, sys, time, numpy, scipy, pandas, prody, wget, selenium, networkx
   2) External software to install: [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/home)
   3) Python language version: >=3.7
+  4) Before running ***Run.py***, please modify line 41 for PPIN input, line 116 and line 117 for two interacting protein UniProt IDs.
+  ```
+  python Run.py
+  ```
+
+## 3. Examples
+
+- Example PPIN input file can be referred to ***test_PPIN.txt***.
+- Example output of Hitting Time and Commute Time:
+  ![Hit](https://github.com/JudeYu99/PPIN-ALLODYNA/tree/main/OUTPUTS/hit.png "Hitting Time")
+  ![Commute](https://github.com/JudeYu99/PPIN-ALLODYNA/tree/main/OUTPUTS/commute.png "Commute Time")
+- Example output of PRS:
+  ![PRS](https://github.com/JudeYu99/PPIN-ALLODYNA/tree/main/OUTPUTS/prs_heatmap.png "PRS")
 
 
   
