@@ -84,9 +84,9 @@ def write_aligned_fasta(fasta_01, fasta_02):
     
     col_use = 'OX'
     # drop duplicated ones with multiple OX (or OX_GN) values, and keep the first occurrence (sp is preferred: sorted by db)
-    df_label_01.sort_values("db", inplace = True) 
+    df_label_01.sort_values(by=['db','OX'], ascending=[True, False], inplace = True) 
     df_label_01.drop_duplicates(col_use, inplace = True)
-    df_label_02.sort_values("db", inplace = True) 
+    df_label_02.sort_values(by=['db','OX'], ascending=[True, False], inplace = True)
     df_label_02.drop_duplicates(col_use, inplace = True)
     
     # drop rows with empty GN values
