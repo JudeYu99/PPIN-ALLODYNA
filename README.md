@@ -8,7 +8,7 @@ At the structural level, the computation of biological networks, including prote
 The tool is currently being further developed and refined, and a new version will be available soon in the future.
 
 ## 2. Usage
-  1) Python packages in need: os, re, string, sys, time, numpy, scipy, pandas, prody, wget, selenium, networkx
+  1) Python packages in need: ***os, re, string, sys, time, numpy, scipy, pandas, prody, wget, selenium, networkx***
   2) External software to install: [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/home)
   3) Python language version: >=3.7
   4) Before running ***Run.py***, please modify line 41 for PPIN input, line 116 and line 117 for two interacting proteins' UniProt IDs.
