@@ -114,3 +114,4 @@ def write_aligned_fasta(fasta_01, fasta_02):
         fasta_file.write(">" + row_i["OX"] + "\n")
         fasta_file.write(fasta_02[0][row_i["UniProtID"]] + "\n")
     fasta_file.close()
+     
