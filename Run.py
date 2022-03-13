@@ -27,7 +27,7 @@ from enm.utils import *
 from enm.visualize import *
 from HitCommute import *
 from get_BLAST_from_UniProt import *
-from merge_MSAs import *
+from align_fasta import *
 from get_aligned_MSA_from_Clustal_Omega import *
 from MI_coevolution import *
 
