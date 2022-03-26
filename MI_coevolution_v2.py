@@ -11,9 +11,10 @@
 
 """
 
-### Introduction of MI_coevolution.py
+### Introduction of MI_coevolution_v2.py
 #
 # @ This part of program is delicated for calculating conservation and co-evolution score based on merged MSAs.
+# @ This program has been updated to version 2 now.
 # @ Two separate MSA files are required when running this sub-program.
 # @ A merged MSA file will be created in fasta format.
 # @ Reference: Liu Y, Bahar I. Sequence Evolution Correlates with Structural Dynamics 2012 Mol Biol Evol 29(9):2253-2263; Liu Y, Gierasch LM, Bahar I Role of Hsp70 ATPase domain intrinsic dynamics and sequence evolution in enabling its functional interactions with NEFs 2010 PLoS Comput Biol 6(9)
