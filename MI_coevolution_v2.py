@@ -189,8 +189,9 @@ if __name__ == '__main__':
     ID_01 = []
     ID_02 = []
     MI = []
-
-    PPIN = pd.read_table("UniProt_PPIN.txt", sep = "\t")
+    
+    # PPIN.txt file consists of two columns (protein 1 and protein 2) for each row.
+    PPIN = pd.read_table("PPIN.txt", sep = "\t")
     for i in range(PPIN.shape[0]):
         UniProtID_01 = PPIN.iloc[0,:][0]
         UniProtID_02 = PPIN.iloc[0,:][1]
@@ -206,10 +207,4 @@ if __name__ == '__main__':
     df["MI_score"] = MI
 
     df.to_csv("./PPIN_MI.csv", index = False, sep = "\t")
-
-'''
-
-    UniProtID_01 = "Q9Y3B2"
-    UniProtID_02 = "Q9Y3B7"
-
-'''
+  
