@@ -15,6 +15,7 @@ The tool is currently being further developed and refined, and a new version wil
   ```
   python3 Run.py
   ```
+  5) ***MI_coevolution_v2.py*** is delicated for coevolution calculation on all edges of the whole PPIN (* Time consuming!).
 
 ## 3. Examples
 
