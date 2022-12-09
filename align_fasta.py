@@ -1,6 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+@ author: Yu Zhu
+
+@ Email: yu.zhu.22@ucl.ac.uk
+
+@ Address: Center for Systems Biology, Department of Bioinformatics, School of Biology and Basic Medical Sciences, Soochow University, Suzhou 215123, China.
+
+"""
 
 ### Introduction of align_fasta.py
 #
