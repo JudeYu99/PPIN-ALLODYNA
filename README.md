@@ -38,7 +38,7 @@ The tool is currently being further developed and refined, and a new version wil
   ```
   The intermediate files obtained during the calculation are detailed in [**OUTPUTS**](https://github.com/JudeYu99/PPIN-ALLODYNA/tree/main/OUTPUTS) folder.
   
-  For questions and data requirements, please contact ***yzhu99@stu.suda.edu.cn***.
+  For questions and data requirements, please contact ***yu.zhu.22@ucl.ac.uk***.
 
   
 ## 4. Reference
